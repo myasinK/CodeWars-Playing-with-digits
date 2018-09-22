@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\bin\Debug\Kata-PlayingWithDigits.exe.config
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\bin\Debug\Kata-PlayingWithDigits.exe
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\bin\Debug\Kata-PlayingWithDigits.pdb
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\obj\Debug\Kata-PlayingWithDigits.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\obj\Debug\Kata-PlayingWithDigits.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\obj\Debug\Kata-PlayingWithDigits.exe
+C:\Users\Yasin\source\repos\Kata-PlayingWithDigits\Kata-PlayingWithDigits\obj\Debug\Kata-PlayingWithDigits.pdb
